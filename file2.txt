@@ -1,3 +1,4 @@
+
 creating conflict
 for conflict
 
@@ -6,3 +7,4 @@ abcd
 
 
 keeping both commits and pushing
+
