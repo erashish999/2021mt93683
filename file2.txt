@@ -1,5 +1,8 @@
-
+creating conflict
+for conflict
 
 abcd
+>>>>>>> ae076e7bded6fe93cfda0295b55aebe7c6427aad
 
-for conflict
+
+keeping both commits and pushing
